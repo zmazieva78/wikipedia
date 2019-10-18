@@ -1,9 +1,15 @@
-.panel ul, .header ul {
+#panel ul, .header ul {
   float: right;
   list-style-type: none;
   margin: 0;
   padding: 0;
   }
+  #inline-links {
+  display: inline;
+  float: right;
+  font-weight: 600;
+
+}
 .header li {
   display: inline;
   padding-left: 5px;
@@ -37,6 +43,9 @@
   float: left;
   margin: 5px;
 }
+#article2 {
+  margin-top: 0;
+}
 .panel-body p {
   padding-left: 5px;
 }
@@ -48,4 +57,8 @@
 }
 .panel-body ul {
   display: inline;
+}
+span {
+  color: blue;
+  font-weight: 700;
 }
