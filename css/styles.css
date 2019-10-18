@@ -18,6 +18,10 @@
 .banner {
   text-align: center;
 }
+#banner {
+  border: solid;
+  border-color: #cfd4d8;
+}
 .panel-body ul {
   display: inline;
 }
@@ -27,4 +31,12 @@
 }
 .panel-body p {
   padding-left: 5px;
+}
+/* #articles, #news {
+  border-style: outset;
+  border-width: 1px;
+
+} */
+.panel {
+  margin-top: 5px;
 }
