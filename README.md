@@ -1,7 +1,7 @@
 # Wikipedia
 ======================
 ## Overeview
-***Recreate layout of Wikipedia website. Epicodus Bootcamp day 4 assignmet.
+***Recreate layout of Wikipedia website. Epicodus Bootcamp day 4 assignmet.***
 -----------------------
 ## Technologies used
 - HTML5
